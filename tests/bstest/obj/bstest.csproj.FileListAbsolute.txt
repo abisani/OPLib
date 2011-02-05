@@ -1,0 +1,35 @@
+D:\OPLib\tests\bstest\bin\Debug\bstest.exe
+D:\OPLib\tests\bstest\bin\Debug\bstest.pdb
+D:\OPLib\tests\bstest\bin\Debug\opmodel.dll
+D:\OPLib\tests\bstest\bin\Debug\opmodel.pdb
+D:\OPLib\tests\bstest\bin\Release\bstest.exe
+D:\OPLib\tests\bstest\bin\Release\bstest.pdb
+D:\OPLib\tests\bstest\bin\Release\opmodel.dll
+D:\OPLib\tests\bstest\bin\Release\opmodel.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bin\debug\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bin\debug\bstest.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Debug\bstest.Properties.Resources.resources
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Debug\bstest.csproj.GenerateResource.Cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Debug\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Debug\bstest.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bin\release\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bin\release\bstest.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Release\bstest.Properties.Resources.resources
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Release\bstest.csproj.GenerateResource.Cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Release\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\tests\bstest\obj\Release\bstest.pdb
+D:\OPLib\tests\bin\debug\bstest.exe
+D:\OPLib\tests\bin\debug\bstest.pdb
+D:\OPLib\bin\release\bstest.exe
+D:\OPLib\bin\release\bstest.pdb
+D:\OPLib\tests\bstest\obj\Release\ResolveAssemblyReference.cache
+D:\OPLib\tests\bstest\obj\Release\bstest.Properties.Resources.resources
+D:\OPLib\tests\bstest\obj\Release\bstest.csproj.GenerateResource.Cache
+D:\OPLib\tests\bstest\obj\Release\bstest.exe
+D:\OPLib\tests\bstest\obj\Release\bstest.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\release\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\release\bstest.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\debug\bstest.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\debug\bstest.pdb

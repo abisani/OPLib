@@ -1,0 +1,28 @@
+CC=gcc 
+CFLAGS=-DLINUX -I/opt/intel/mkl/10.2.1.017/include/
+LDFLAGS= -lstdc++  -lmkl_intel -lmkl_intel_thread -lmkl_core -liomp5 -L/opt/intel/mkl/10.2.1.017/lib/32
+OBJ=util.o linalg.o rangen.o
+
+
+%.o: %.c 
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+%.o: %.cpp 
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+%.so: %.o $(OBJ)
+	$(CC) -c -o $@ $< $(LDLAGS)
+
+
+
+libopc.so: $(OBJ)
+	gcc -shared -o $@ $^ $(LDFLAGS)
+	cp libopc.so ../../benchmarks/bin/release/
+
+
+clean:
+	rm -f libopc.so $(OBJ)
+
+
+
+

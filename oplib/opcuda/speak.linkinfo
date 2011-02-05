@@ -1,0 +1,1 @@
+ --import %laneid,%ctaid,%nctaid,%smid,A7,%pm3,%pm2,%pm1,__CC-temp__0__,%pm0,%tid,%clock,%warpid,%ntid,%gridid --export _Z30global_benchmark_register_peakPfS_S_S_,_Z28global_benchmark_shared_peakPfS_S_S_

@@ -1,0 +1,39 @@
+D:\OPLib\benchmarks\cdgemm\bin\Debug\cdgemm.exe
+D:\OPLib\benchmarks\cdgemm\bin\Debug\cdgemm.pdb
+D:\OPLib\benchmarks\cdgemm\bin\Debug\opmodel.dll
+D:\OPLib\benchmarks\cdgemm\bin\Debug\opmodel.pdb
+D:\OPLib\benchmarks\cdgemm\bin\Release\cdgemm.exe
+D:\OPLib\benchmarks\cdgemm\bin\Release\cdgemm.pdb
+D:\OPLib\benchmarks\cdgemm\bin\Release\opmodel.dll
+D:\OPLib\benchmarks\cdgemm\bin\Release\opmodel.pdb
+D:\OPLib\benchmarks\benchmarks\bin\release\cdgemm.exe
+D:\OPLib\benchmarks\benchmarks\bin\release\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\bin\debug\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\bin\debug\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Debug\cdgemm.Properties.Resources.resources
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Debug\cdgemm.csproj.GenerateResource.Cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Debug\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Debug\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\bin\release\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\bin\release\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Release\ResolveAssemblyReference.cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.Properties.Resources.resources
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.csproj.GenerateResource.Cache
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.pdb
+D:\OPLib\benchmarks\bin\debug\cdgemm.exe
+D:\OPLib\benchmarks\bin\debug\cdgemm.pdb
+D:\OPLib\benchmarks\bin\release\cdgemm.exe
+D:\OPLib\benchmarks\bin\release\cdgemm.pdb
+D:\OPLib\benchmarks\cdgemm\obj\Release\ResolveAssemblyReference.cache
+D:\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.Properties.Resources.resources
+D:\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.csproj.GenerateResource.Cache
+D:\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.exe
+D:\OPLib\benchmarks\cdgemm\obj\Release\cdgemm.pdb
+D:\OPLib\bin\release\cdgemm.exe
+D:\OPLib\bin\release\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\release\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\release\cdgemm.pdb
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\debug\cdgemm.exe
+C:\Users\claudio\Documents\Visual Studio 2005\Projects\OPLib\bin\debug\cdgemm.pdb

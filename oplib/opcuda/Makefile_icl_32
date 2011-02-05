@@ -1,0 +1,26 @@
+CC=nvcc 
+CFLAGS=-DLINUX 
+LDFLAGS= -lcudart -lcublas -L/usr/local/cuda/lib
+OBJ=util.o sgsvg.o smc.o speak.o sset.o sdot2.o ssqmm.o sek.o stranspose.o sgemm4.o sck.o util.o sgemm.o sgemv3.o scopy2.o sgemv4.o sgemv.o sglvg.o
+
+
+
+%.o: %.cu 
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+%.so: %.o $(OBJ)
+	$(CC) -c -o $@ $< $(LDLAGS)
+
+
+
+libopcuda.so: $(OBJ)
+	nvcc -shared -o $@ $^ $(LDFLAGS)
+	cp libopcuda.so ../../benchmarks/bin/release/
+
+
+clean:
+	rm -f libopcuda.so $(OBJ)
+
+
+
+

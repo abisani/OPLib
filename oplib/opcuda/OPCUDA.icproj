@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.1"
+	Name="OPCUDA"
+	ProjectGUID="{8ECC4B7E-186F-40E6-8370-5230713AC9F4}"
+	VCNestedProjectGUID="{3E102BF5-DC47-4BC6-BA21-2BCB29C460D5}"
+	VCNestedProjectFileName="OPCUDA.vcproj">
+	<Configurations/>
+	<Files/>
+</VisualStudioProject>

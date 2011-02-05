@@ -1,0 +1,28 @@
+CC=gcc 
+CFLAGS= -fPIC -DLINUX -I/home/system/software/redqueen/intelmkl/include
+LDFLAGS= -lstdc++  -lmkl_intel_lp64 -lmkl_intel_thread -lmkl_core -liomp5 -L/home/system/software/redqueen/intelmkl/lib/em64t
+OBJ=util.o linalg.o rangen.o
+
+
+%.o: %.c 
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+%.o: %.cpp 
+	$(CC) -c -o $@ $< $(CFLAGS)
+
+%.so: %.o $(OBJ)
+	$(CC) -c -o $@ $< $(LDLAGS)
+
+
+
+libopc.so: $(OBJ)
+	gcc -shared -o $@ $^ $(LDFLAGS)
+	cp libopc.so ../../benchmarks/bin/release/
+
+
+clean:
+	rm -f libopc.so $(OBJ)
+
+
+
+

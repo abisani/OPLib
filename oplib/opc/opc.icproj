@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<VisualStudioProject
+	ProjectType="Intel C++ Project"
+	Version="11.0"
+	Name="OPC"
+	ProjectGUID="{B9F6A718-EE8D-4055-B8B3-F8915B9957E4}"
+	VCNestedProjectGUID="{C96A8622-6D87-460E-9AC7-B806214A58A6}"
+	VCNestedProjectFileName="opc.vcproj">
+	<Configurations>
+		<Configuration
+			Name="Release|x64">
+			<Tool
+				Name="CppCmplrTool"
+				GlobalOptimizations="true"
+				OptimizeForWindowsApplication="true"
+				FlushDenormalResultsToZero="false"
+				Parallelization="true"/>
+		</Configuration>
+	</Configurations>
+	<Files/>
+</VisualStudioProject>
